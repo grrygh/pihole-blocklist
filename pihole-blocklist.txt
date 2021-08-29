@@ -94,3 +94,4 @@ samsung-com.112.2o7.net
 24.90.88.77
 74.93.60.190
 111.40.16.233
+log.pinterest.com
