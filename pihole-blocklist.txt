@@ -96,3 +96,4 @@ samsung-com.112.2o7.net
 111.40.16.233
 log.pinterest.com
 stats.wp.com
+best-lucky-person.xyz
